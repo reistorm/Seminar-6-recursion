@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\bin\Debug\net6.0\Task_40.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\bin\Debug\net6.0\Task_40.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\bin\Debug\net6.0\Task_40.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\bin\Debug\net6.0\Task_40.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\bin\Debug\net6.0\Task_40.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\refint\Task_40.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\Task_40.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 6 Двумерные массивы и рекурсия\S6\Task_40\obj\Debug\net6.0\ref\Task_40.dll
